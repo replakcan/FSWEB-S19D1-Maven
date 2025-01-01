@@ -133,5 +133,3 @@ class ApplicationPropertiesAndControllerTests {
                 .andExpect(status().isOk());
     }
 }
-
-
